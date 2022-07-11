@@ -8,6 +8,9 @@ Citation:
 
 ```
 Bari, M.A.J., Faisal, M.I., Hasan, M., Islam, L., Hossain, M.S., Momen, S. (2022). Preterm Birth Prediction of Pregnant Women in Post Conization Period Using Machine Learning Techniques. In: Silhavy, R. (eds) Artificial Intelligence Trends in Systems. CSOC 2022. Lecture Notes in Networks and Systems, vol 502. Springer, Cham. https://doi.org/10.1007/978-3-031-09076-9_36
+
+
+
 ```
 Or, you can download the citation [hear](https://link.springer.com/chapter/10.1007/978-3-031-09076-9_36#citeas).
 
