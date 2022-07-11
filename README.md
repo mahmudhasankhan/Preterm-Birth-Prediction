@@ -30,14 +30,14 @@ Dataset used in this work can be downloaded from [here](https://datadryad.org/st
 
 Acquiring the dataset, we performed adequate data preprocessing so that ML algorithms can efficiently use the data to make predictions. 
 <p>
-    <img src="assets/fig1.png" width="600" alt="Proposed Architecture">
+    <img src="./Assets/fig1.png" width="600" alt="Proposed Architecture">
 </p>
 
 We have used a handful of machine learning algorithms to empirically find out the best performing algorithm for this dataset. The results of these algorithms have varied in accuracy. The Decision Tree algorithm was found to attain the best accuracy score with 99.3% accuracy on the
 test data.
 
 <p>
-    <img src="assets/fig2.png" width="600" alt="Comparison between Machine Learning Algorithms">
+    <img src="./Assets/fig2.png" width="600" alt="Comparison between Machine Learning Algorithms">
 </p>
 
 ## Authors
